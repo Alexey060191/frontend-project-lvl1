@@ -5,4 +5,6 @@
 
 [![Linter](https://github.com/Alexey060191/frontend-project-lvl1/workflows/Linter/badge.svg)](https://github.com/Alexey060191/frontend-project-lvl1/actions)
 
+https://asciinema.org/connect/bb0e44a5-6837-4897-abb6-05b9844f197e
+
 
