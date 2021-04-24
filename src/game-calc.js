@@ -24,10 +24,8 @@ export default () => {
         result = num1 * num2;
         break;
     }
-
     console.log(`Question: ${num1} ${arr[randomForArr]} ${num2}`);
     const userEnter = readlineSync.question('Your answer: ');
-
     if (+userEnter === result) {
       count += 1;
       console.log('Correct!');
